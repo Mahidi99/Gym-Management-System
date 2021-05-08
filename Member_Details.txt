@@ -1,0 +1,6 @@
+
+Membership Number : 234 |	Name:mahidi |	Start Membership Date:12/09/2020
+	mahidi is a DefaultMember
+
+Membership Number : 34 |	Name:wayuni |	Start Membership Date:12/09/2019]
+	wayuni is a DefaultMember
